@@ -1,0 +1,4 @@
+list_example.o: list_example.c list_v1.h list_v2.h time_chrono.h
+list_v1.o: list_v1.c list_v1.h
+list_v2.o: list_v2.c list_v2.h
+time_chrono.o: time_chrono.c time_chrono.h

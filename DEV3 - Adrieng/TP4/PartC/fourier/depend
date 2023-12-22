@@ -1,0 +1,4 @@
+dft.o: dft.c dft.h types.h
+fft.o: fft.c fft.h types.h
+main.o: main.c dft.h types.h fft.h time_chrono.h
+time_chrono.o: time_chrono.c time_chrono.h

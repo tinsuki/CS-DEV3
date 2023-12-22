@@ -1,0 +1,5 @@
+#!/bin/bash
+rm -f database
+./shapy.py store song.wav
+./shapy.py store trumpet.wav
+./shapy.py query song.wav

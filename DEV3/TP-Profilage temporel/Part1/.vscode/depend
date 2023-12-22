@@ -1,0 +1,2 @@
+time_chrono.o: time_chrono.c time_chrono.h
+time_example.o: time_example.c time_chrono.h

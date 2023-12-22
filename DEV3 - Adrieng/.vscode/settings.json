@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "list_v2.h": "c",
+        "list_v1.h": "c",
+        "time_chrono.h": "c",
+        "dft.h": "c"
+    }
+}
